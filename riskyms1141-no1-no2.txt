@@ -1,0 +1,16 @@
+1.	Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+	=>Frame work dalam bahasa Indonesia yaitu kerangka kerja, kerangka kerja ini berguna untuk mempermudah programmer dalam proses pengembangan aplikasi, gampangnya framework itu adalah sekumpulan kode yang penggunaan kodenya untuk mempermudah programmer untuk mengembangkan aplikasi/web. Contoh tools dari framework adalah Bootstrap
+
+2.	Final-Project test
+  1)	Sebutkan tema proyek yang sedang digarap! 
+	=> "Pembuatan Sistem Presensi Sekolah Berbasis Web di SMK Pakusarakan Cikampek"
+  2)	Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota! 
+	=> Arya Sentana Prasetyo	=> Membuat Laporan/Dokumentasi
+	=> Risky Mawa Santoso	=> Membuat Program/Ngoding
+	=> Willy Ahmad Khoiri	=> Pembuatan Database
+  3)	Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+	  Proses presensi siswa di SMK Pakusarakan Cikampek dilakukan setiap hari. Di setiap kelas disediakan buku absensi oleh TU, yang nanti akan diisi oleh guru masing-masing kelas. Pada akhir semester setiap wali kelas akan melakukan rekap data presensi untuk melaporkan kehadiran siswa. Karena kurangnya ketelitian dan banyaknya siswa, sering terjadi kesalahan dalam melakukan perhitungan presensi. Karena presensi masih berupa arsip, perhitungan dilakukan dengan merekap dan mencocokkan data pada masing-masing arsip. Menyebabkan proses mengolah data menjadi lama, dan sangat memakan banyak waktu. 
+	   Jadi permasalahan di SMK Pakusarakan Cikampek, yaitu presensi siswa yang telah ada masih belum bekerja dengan baik dan tidak efisien. Untuk itu kita memerlukan sistem baru yang sudah optimal sehingga kegiatan pencatatan dan juga perhitungan absensi siswa dapat dilakukan dengan sistematis, cepat dan akurat.
+	    Maka, berdasarkan penejelasan di atas kita akan membuat sebuah sistem presensi siswa berbasis web pada SMK Pakusarakan Cikampek yang saat ini masih menggunakan sistem absensi manual.
+
+3. show.php = index.php
